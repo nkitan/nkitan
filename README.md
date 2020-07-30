@@ -10,7 +10,7 @@ I am Ankit, a student, developer and learner. I contribute to various communitie
 * Frameworks like tensorflow,openCV,nodejs,react,angularjs
 * Languages - C++, C, Python , Bash, JavaScript, HTML, CSS, JSON
 * Linux systems
-~
+    ~
 ###### SOFT
 * Bilingual - Hindi and English
 * communicatior

@@ -24,10 +24,10 @@ __________________________________________________
 ##### **CONTACT ME:** 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-das-929513193/) [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ankitdas2k@gmail.com)
 -------------------------
-*repositories*
+*repositories*    
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nkitan&repo=veil) ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nkitan&repo=opencloak)
 
-*stats*
+*stats*     
 ![Ankits's github stats](https://github-readme-stats.vercel.app/api?username=nkitan&show_icons=true&hide_title=true&hide_rank=true&icon_color=#BADA55) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 

@@ -25,9 +25,8 @@ I am constantly **learning** and am actively looking to collaborate and contribu
 > Portability using Docker containers
 > Deployment of containers using Kubernetes
 > Competitive Coding
-
-and honestly, i :green_heart: it all!
 ````
+and honestly, i :green_heart: it all! 
 
 **[+] todo**
 ```` bash
@@ -58,5 +57,5 @@ __________________________________________________
 </p>
 
 -------------------------------
-Working with the open-source software makes me very happy and i am always looking forward for many contributions.
-FROM :boom: @nkitan
+Working with the open-source software makes me very happy and i am always looking forward for many contributions.    
+:boom: : @nkitan

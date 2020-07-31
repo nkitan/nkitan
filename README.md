@@ -10,7 +10,6 @@ my interests include writing code, **building and developing** software, playing
 - Android / iOS app development
 <br>
 <br>
-----
 
 ***I have experience with the following***
 ###### TECHNOLOGIES:
@@ -30,7 +29,6 @@ __________________________________________________
 
 
 -------------------------
-*stats*     
 <p align=center>
 <a>
 

@@ -57,5 +57,5 @@ __________________________________________________
 </p>
 
 -------------------------------
-Working with the open-source software makes me very happy and i am always looking forward for many contributions.    
+ACTIVELY LOOKING TO CONTRIBUTE   
 :boom: : @nkitan

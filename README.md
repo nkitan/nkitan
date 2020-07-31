@@ -1,17 +1,46 @@
-# QUICK START GUIDE
-I am Ankit, a student, a geek and a fitness freak.
+# Hello, World!
+#### Im Ankit, 
+[![Twitter Badge](https://img.shields.io/badge/-@ankitdas2k-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/AnkitDas2k)](https://twitter.com/AnkitDas2k) [![Linkedin Badge](https://img.shields.io/badge/-ankitdas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ankit-das-929513193/)](https://www.linkedin.com/in/ankit-das-929513193/)
+[![Gmail Badge](https://img.shields.io/badge/-ankitdas2k@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ankitdas2k@gmail.com)](mailto:ankitdas2k@gmail.com)
+<br>
+<p align=center>
+<a>
 
------------
-#### INTERESTS AND SKILLS
-my interests include writing code, **building and developing** software, playing **football**, making **music**, **exploring** places and most of all, creating. I am constantly **learning** and love to learn more. I am currently working on **Machine Learning** algorithms and work with Tensorflow / PyTorch on docker containers. I am also working on building web apps.
+Im a student, geek and a fitness freak made to write C code.
+my interests include writing code, **building and developing** secure systems, programs and tools, playing **football**, making **music**, **exploring** places and most of all, creating. 
+I am constantly **learning** and am actively looking to collaborate and contribute.
 
-**todo**
-- Windows software development using VS
-- Android / iOS app development
+
+<br>
+
+### QUICK START GUIDE
+
+**[+]  I am currently working on**
+````bash
+> Computer Vision
+> Machine Learning algorithms and work with Tensorflow / PyTorch 
+> Computer Organization and Secure Execution
+> IOT devices to use ML
+> building Web Apps
+> Portability using Docker containers
+> Deployment of containers using Kubernetes
+> Competitive Coding
+
+and honestly, i :green_heart: it all!
+````
+
+**[+] todo**
+```` bash
+- Cloud Systems Development
+- Windows Software Development using Visual Studio
+- Android Software Development using Kotlin
+````
 <br>
 <br>
 
-***I have experience with the following***
+**[+]  What i have worked with**
+<p>
+
 ###### TECHNOLOGIES:
 *TensorFlow , PyTorch , docker + kubernetes , openCV , nodeJS , mongoDB , react*
 <br>
@@ -20,17 +49,9 @@ my interests include writing code, **building and developing** software, playing
 <br>
 ###### MISCALLANEOUS:
 *Ableton Live, Adobe Photoshop, Premiere Pro, After Effects, Lightroom*
+</p>
+
 __________________________________________________
-
-
-
-##### FIND ME AT OTHER PLACES : 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-das-929513193/) [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ankitdas2k@gmail.com)
-
-
--------------------------
-<p align=center>
-<a>
 
 ![Ankits's github stats](https://github-readme-stats.vercel.app/api?username=nkitan&show_icons=true&hide_title=true&hide_rank=true&line_height=19) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nkitan&layout=compact)
 </a>
@@ -38,4 +59,4 @@ __________________________________________________
 
 -------------------------------
 Working with the open-source software makes me very happy and i am always looking forward for many contributions.
-
+FROM :boom: @nkitan

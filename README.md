@@ -11,6 +11,7 @@ my interests include writing code, **building and developing** software, playing
 <br>
 <br>
 ----
+
 ***I have experience with the following***
 ###### TECHNOLOGIES:
 *TensorFlow , PyTorch , docker + kubernetes , openCV , nodeJS , mongoDB , react*

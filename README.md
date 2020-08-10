@@ -41,7 +41,7 @@ and honestly, i :green_heart: it all!
 <p>
 
 ###### TECHNOLOGIES:
-*TensorFlow , PyTorch , docker + kubernetes , openCV , nodeJS , mongoDB , react*
+*TensorFlow , PyTorch , docker + kubernetes , openCV , nodeJS , mongoDB , react , arduino , esp8266 , raspberry pi*
 <br>
 ###### LANGUAGES:
 *C++, C , Python , BASH , Javascript , CSS3 , HTML5 , JSON*

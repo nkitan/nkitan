@@ -6,8 +6,10 @@
 <p align=center>
 <a>
 
-Im a student, geek and a fitness freak made to write C code.
-my interests include writing code, **building and developing** secure systems, programs and tools, playing **football**, making **music**, **exploring** places and most of all, creating. 
+Im a student who likes to write C code.
+my interests playing **football**, making **music**, **exploring** places and most of all, creating. 
+it includes writing code, **building and developing** secure systems, programs and tools.
+
 I am constantly **learning** and am actively looking to collaborate and contribute.
 
 
@@ -41,13 +43,13 @@ and honestly, i :green_heart: it all!
 <p>
 
 ###### TECHNOLOGIES:
-*TensorFlow , PyTorch , docker + kubernetes , openCV , nodeJS , mongoDB , react , arduino , esp8266 , raspberry pi*
+*TensorFlow , PyTorch , docker + kubernetes , openCV , nodeJS , mongoDB , react , arduino , raspberry pi*
 <br>
 ###### LANGUAGES:
-*C++, C , Python , BASH , Javascript , CSS3 , HTML5 , JSON*
+*C++, C , Python , BASH , Javascript , CSS3 , HTML5 , JSON, Prolog*
 <br>
 ###### MISCALLANEOUS:
-*Ableton Live, Adobe Photoshop, Premiere Pro, After Effects, Lightroom*
+*Ableton Live, Adobe Photoshop, Premiere Pro, After Effects, Lightroom, Blender*
 </p>
 
 __________________________________________________

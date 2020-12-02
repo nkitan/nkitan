@@ -27,6 +27,7 @@ I am constantly **learning** and am actively looking to collaborate and contribu
 > Portability using Docker containers
 > Deployment of containers using Kubernetes
 > Competitive Coding
+> ROS + Python
 ````
 and honestly, i :green_heart: it all! 
 
@@ -43,7 +44,7 @@ and honestly, i :green_heart: it all!
 <p>
 
 ###### TECHNOLOGIES:
-*TensorFlow , PyTorch , docker + kubernetes , openCV , nodeJS , mongoDB , react , arduino , raspberry pi*
+*TensorFlow , PyTorch , docker + kubernetes , openCV , nodeJS , mongoDB , react , arduino , raspberry pi , Robotics Operating System*
 <br>
 ###### LANGUAGES:
 *C++, C , Python , BASH , Javascript , CSS3 , HTML5 , JSON, Prolog*

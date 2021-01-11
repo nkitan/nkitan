@@ -12,9 +12,8 @@
 </p>
 
 
-Im a student who likes to write C code.
-my interests playing **football**, making **music**, **exploring** places and most of all, creating. 
-it includes writing code, **building and developing** secure systems, programs and tools.
+a student who likes to write C code, **building and developing** secure systems, programs and tools.
+my interests are playing **football**, making **music**, **exploring** places and most of all, creating.
 
 I am constantly **learning** and am actively looking to collaborate and contribute.
 
@@ -60,8 +59,6 @@ and honestly, i :green_heart: it all!
 </p>
 
 __________________________________________________
-
-
 -------------------------------
 ACTIVELY LOOKING TO CONTRIBUTE   
 :boom: : @nkitan

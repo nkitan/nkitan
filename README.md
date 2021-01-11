@@ -5,6 +5,12 @@
 <br>
 <p align=center>
 <a>
+  
+![Ankits's github stats](https://github-readme-stats.vercel.app/api?username=nkitan&show_icons=true&hide_title=true&hide_rank=true&line_height=19) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nkitan&layout=compact)
+</a>
+</p>
+
 
 Im a student who likes to write C code.
 my interests playing **football**, making **music**, **exploring** places and most of all, creating. 
@@ -55,9 +61,6 @@ and honestly, i :green_heart: it all!
 
 __________________________________________________
 
-![Ankits's github stats](https://github-readme-stats.vercel.app/api?username=nkitan&show_icons=true&hide_title=true&hide_rank=true&line_height=19) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nkitan&layout=compact)
-</a>
-</p>
 
 -------------------------------
 ACTIVELY LOOKING TO CONTRIBUTE   

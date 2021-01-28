@@ -13,9 +13,7 @@
 
 
 a student who likes to write C code, **building and developing** secure systems, programs and tools.
-my interests are playing **football**, making **music**, **exploring** places and most of all, creating.
-
-constantly **learning** and actively looking to collaborate and contribute.
+my interests are playing **football**, making **music**, **exploring** places and most of all, creating, constantly **learning** and actively looking to collaborate and contribute.
 
 
 <br>

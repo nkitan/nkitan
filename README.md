@@ -34,7 +34,6 @@ I am constantly **learning** and am actively looking to collaborate and contribu
 > Competitive Coding
 > ROS + Python
 ````
-and honestly, i :green_heart: it all! 
 
 **[+] todo**
 ```` bash

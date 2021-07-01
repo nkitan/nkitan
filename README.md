@@ -46,13 +46,13 @@ my interests are playing **football**, making **music**, **exploring** places an
 <p>
 
 ###### TECHNOLOGIES:
-*TensorFlow , PyTorch , docker + kubernetes , openCV , nodeJS , mongoDB , react , arduino , raspberry pi , Robotics Operating System*
+*Robotics Operating System, TensorFlow, openCV, docker + kubernetes, reactjs, expressjs, nodeJS , mongoDB, postgresql, mySQL, react , arduino , raspberry pi*
 <br>
 ###### LANGUAGES:
-*C++, C , Python , BASH , Javascript , CSS3 , HTML5 , JSON, Prolog*
+*C++ , C , Rust , Python , BASH , Javascript , CSS3 , HTML5 , JSON, Prolog*
 <br>
 ###### MISCALLANEOUS:
-*Ableton Live, Adobe Photoshop, Premiere Pro, After Effects, Lightroom, Blender*
+*Ableton Live, Adobe Photoshop, Premiere Pro, After Effects, Lightroom, Blender, Unity, VisualStudio*
 </p>
 
 __________________________________________________

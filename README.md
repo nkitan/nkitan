@@ -22,23 +22,15 @@ my interests are playing **football**, making **music**, **exploring** places an
 
 **[+]  I am currently working on**
 ````bash
-> Computer Vision
-> Machine Learning algorithms and work with Tensorflow / PyTorch 
-> Computer Organization and Secure Execution
-> IOT devices to use ML
-> building Web Apps
+> building applications with C/C++
+> building web applications using nodejs + reactjs
 > Portability using Docker containers
-> Deployment of containers using Kubernetes
-> Competitive Coding
-> ROS + Python
+> Machine Learning algorithms and work with Tensorflow / PyTorch
+> Application security
+> Computer Vision
+> ROS
 ````
 
-**[+] todo**
-```` bash
-- Cloud Systems Development
-- Windows Software Development using Visual Studio
-- Android Software Development using Kotlin
-````
 <br>
 <br>
 
@@ -46,10 +38,10 @@ my interests are playing **football**, making **music**, **exploring** places an
 <p>
 
 ###### TECHNOLOGIES:
-*Robotics Operating System, TensorFlow, openCV, docker + kubernetes, reactjs, expressjs, nodeJS , mongoDB, postgresql, mySQL, react , arduino , raspberry pi*
+*QT, docker, Robotics Operating System, TensorFlow, openCV, reactjs, expressjs, nodejs , mongoDB, postgresql, mySQL, arduino , raspberry pi*
 <br>
 ###### LANGUAGES:
-*C++ , C , Rust , Python , BASH , Javascript , CSS3 , HTML5 , JSON, Prolog*
+*C, C++, python, rust, java, bash, javascript, CSS3, HTML5, JSON, prolog*
 <br>
 ###### MISCALLANEOUS:
 *Ableton Live, Adobe Photoshop, Premiere Pro, After Effects, Lightroom, Blender, Unity, VisualStudio*

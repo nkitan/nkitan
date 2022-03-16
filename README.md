@@ -11,20 +11,17 @@ my interests are playing **football**, making **music**, **exploring** places an
 
 **[+]  I am currently working on**
 ````bash
-> building applications with C/C++
-> building web applications using nodejs + reactjs
-> Portability using Docker containers
-> Machine Learning algorithms and work with Tensorflow / PyTorch
-> Application security
-> Computer Vision
-> ROS
+> Custom Blockchain to store data using Rust
+> Web interfaces using nodejs and reactjs
+> Automated driving using Tensorflow and Keras
 ````
 
 <br>
 <br>
 
-**[+]  What i have worked with**
+**[+] What i have worked with**
 <p>
+  
 ###### FIELDS OF INTEREST / EXPERIENCES:
 *Data Structures - Linked Lists - Trees and Heaps, Problem Solving, Cryptography, CyberSec, Path Finding Algorithms, Sorting, Web Applications, AI+ML, BlockChain, Computer Vision*
 <br>

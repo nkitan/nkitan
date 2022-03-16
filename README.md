@@ -1,7 +1,7 @@
 # Hello, World!
 #### Im Ankit, 
 
-a student who likes to write C code, **building and developing** secure systems, programs and tools.
+a student who likes to solve problems, write data structures in C, **build and develop** secure systems, programs and tools.
 my interests are playing **football**, making **music**, **exploring** places and most of all, creating, constantly **learning** and actively looking to collaborate and contribute.
 
 
@@ -25,9 +25,12 @@ my interests are playing **football**, making **music**, **exploring** places an
 
 **[+]  What i have worked with**
 <p>
-
+###### FIELDS OF INTEREST / EXPERIENCES:
+*Data Structures - Linked Lists - Trees and Heaps, Problem Solving, Cryptography, CyberSec, Path Finding Algorithms, Sorting, Web Applications, AI+ML, BlockChain, Computer Vision*
+<br>
+  
 ###### TECHNOLOGIES:
-*QT, docker, Robotics Operating System, TensorFlow, openCV, reactjs, expressjs, nodejs , mongoDB, postgresql, mySQL, arduino , raspberry pi*
+*pwa, nodejs, reactjs, expressjs, oauth2, jwt, android, docker, ros, kernels, tensorflow, keras, opencv, mongoDB, postgresql, mysql, arduino , raspberry pi*
 <br>
 ###### LANGUAGES:
 *C, C++, python, rust, java, bash, javascript, CSS3, HTML5, JSON, prolog*

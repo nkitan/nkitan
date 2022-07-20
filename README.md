@@ -1,9 +1,8 @@
 # Hello, World!
 #### Im Ankit, 
 
-a student who likes to solve problems, write data structures in C, **build and develop** secure systems, programs and tools.
+Software Developer Intern, Student who likes to solve problems. I **build and develop** secure systems, programs and tools.
 my interests are playing **football**, making **music**, **exploring** places and most of all, creating, constantly **learning** and actively looking to collaborate and contribute.
-
 
 <br>
 
@@ -12,8 +11,8 @@ my interests are playing **football**, making **music**, **exploring** places an
 **[+]  I am currently working on**
 ````bash
 > Custom Blockchain to store data using Rust
-> Web interfaces using nodejs and reactjs
-> Automated driving using Tensorflow and Keras
+> Distributed Microservices based web application
+> Deep Learning based Fake-news detection
 ````
 
 <br>
@@ -23,17 +22,15 @@ my interests are playing **football**, making **music**, **exploring** places an
 <p>
   
 ###### FIELDS OF INTEREST / EXPERIENCES:
-*Data Structures - Linked Lists - Trees and Heaps, Problem Solving, Cryptography, CyberSec, Path Finding Algorithms, Sorting, Web Applications, AI+ML, BlockChain, Computer Vision*
+*Data Science, Data Structures, Distributed Systems, Microservices, Docker, Native Android, Database Development, Cryptograhy, Linux*
 <br>
   
 ###### TECHNOLOGIES:
-*pwa, nodejs, reactjs, expressjs, oauth2, jwt, android, docker, ros, kernels, tensorflow, keras, opencv, mongoDB, postgresql, mysql, arduino , raspberry pi*
+*nodejs, reactjs, Hibernate, Maven, expressjs, oauth2, jwt, android, docker, ros, tensorflow, keras, opencv, postgresql, mysql, arduino , raspberry pi*
 <br>
 ###### LANGUAGES:
 *C, C++, python, rust, java, bash, javascript, CSS3, HTML5, JSON, prolog*
 <br>
-###### MISCALLANEOUS:
-*Ableton Live, Adobe Photoshop, Premiere Pro, After Effects, Lightroom, Blender, Unity, VisualStudio*
 </p>
 
 __________________________________________________

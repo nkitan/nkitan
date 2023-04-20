@@ -26,7 +26,7 @@ __________________________________________________
 <a>
 <br>
   
-![Ankits's github stats](https://github-readme-stats.vercel.app/api?username=nkitan&show_icons=true&hide_title=false&hide_rank=true&line_height=19&&theme=synthwave) 
+![Ankits's github stats](https://github-readme-stats.vercel.app/api?username=nkitan&show_icons=true&hide_title=false&hide_rank=true&line_height=19) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nkitan&layout=compact)
 </a>
 </p>

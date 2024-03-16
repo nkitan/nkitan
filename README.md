@@ -1,7 +1,7 @@
 # Hello, World!
 #### Im Ankit, 
 
-Site Reliability Intern at PhonePe, Enthusiast at solving problems. I **design and develop** secure systems, programs and tools.
+Site Reliability Engineer for the Edge Infrastructure at PhonePe, Enthusiast at solving problems. I **design and develop** secure systems, programs and tools.
 my interests include but are not limited to playing **football**, making **music**, **exploring** places.
 create, learn, collaborate and contribute.
 

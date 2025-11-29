@@ -6,17 +6,6 @@ my interests include but are not limited to playing **football**, making **music
 create, learn, collaborate and contribute.
 
 <br>
-
-### QUICK START GUIDE
-
-**[+]  ONGOING**
-````bash
-> Image generation using AI
-> Distributed Data Gathering System using Java
-> Custom Blockchain using Rust
-````
-
-<br>
 <br>
 
 __________________________________________________
